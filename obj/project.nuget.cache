@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Hg92e+thnD9PBxmzEzpBSxZcFpmaWVOABzZ/YF8D9tEc/O7EkZmPv2OIUnDk7Y912ImjczE3oNEiDyaKKDMjhw==",
+  "success": true,
+  "projectFilePath": "/media/gustavo/Internal-data1/Projects/C#/consAPI/consAPI.csproj",
+  "expectedPackageFiles": [
+    "/home/gustavo/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/home/gustavo/.nuget/packages/refit/6.2.16/refit.6.2.16.nupkg.sha512",
+    "/home/gustavo/.nuget/packages/system.net.http.json/6.0.0/system.net.http.json.6.0.0.nupkg.sha512",
+    "/home/gustavo/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "/home/gustavo/.nuget/packages/system.text.encodings.web/6.0.0/system.text.encodings.web.6.0.0.nupkg.sha512",
+    "/home/gustavo/.nuget/packages/system.text.json/6.0.0/system.text.json.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
